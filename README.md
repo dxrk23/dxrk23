@@ -15,7 +15,7 @@ class About extends Me
     getCurrentWorkplace() {
         return {
             company : 'CACG',
-            position : 'Junior Front-end developer'
+            position : 'Front-end developer'
         };
     }
 
