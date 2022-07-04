@@ -2,7 +2,7 @@
 
 ---
   
-<p><em>Software Engineer at <a href="https://astanait.edu.kz/">Astana IT University</a><img src="https://media.giphy.com/media/MasfNVDb2lkeB44QIC/giphy.gif" width="30"></em></p>
+<p><em>Software Engineer at <a href="https://astanait.edu.kz/">Astana IT University</a><img style="height:20px" src="https://media.giphy.com/media/MasfNVDb2lkeB44QIC/giphy.gif" width="30"></em></p>
   
 [![Linkedin: dxrk23](https://img.shields.io/badge/-dxrk23-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dxrk23/)](https://www.linkedin.com/in/dxrk23/)
 
