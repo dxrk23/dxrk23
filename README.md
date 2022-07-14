@@ -12,13 +12,6 @@ import { YedilDinmukhamed } from Developers;
 
 class About extends Me
 {
-    getCurrentWorkplace() {
-        return {
-            company : 'CACG',
-            position : 'Front-end developer'
-        };
-    }
-
     getCodeingKnowledge() {
         return [
             'JavaScript', 'TypeScript', 'HTML', 'CSS', 'C#', 'Java'
@@ -27,7 +20,7 @@ class About extends Me
 
     getToolsKnowledge() {
         return [
-            'VueJs', 'Vuex', 'Pinia', 'Vite', 'ASP.NET', 'Spring', 'Docker'
+            'VueJs', 'Vuex', 'Pinia', 'Vite', 'ASP.NET', 'React', 'Docker'
         ];
     }
 
